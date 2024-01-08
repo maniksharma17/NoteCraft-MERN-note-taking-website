@@ -1,4 +1,5 @@
 # NoteCaft: MERN note-taking website
+https://melodic-gaufre-b59ddb.netlify.app/
 
 Here, we have create an interactive note-taking application: NoteCraft. People can use it to boost up their productivitiy to a great extent. Users will get a really interactive place to take notes and plan their days up. The application will also have a visual appeal to spice up the boring work.
 
